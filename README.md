@@ -22,3 +22,9 @@
 - 💬 Ask me about Angular, Typescript and Rust
 - 📫 How to reach me: [@SheikAlthafDev](https://twitter.com/SheikAlthafDev)
 - ⚡ Fun fact: I try to learn new things just like that without any reason
+
+
+### Creator of [UI universal](https://github.com/uiuniversal)
+
+I'm the creator of UI universal, and I'm passionate about open-source development. Check out my projects here!
+
